@@ -3,7 +3,7 @@
 I help **retail teams answer the questions that actually matter**:  
 *What drives sales? Where are we losing revenue? Which products should be sold together?*
 
-With a background in **Business Information Systems**, I specialise in **retail & commercial analytics**, turning transactional data into **actionable insights** — not just charts, but real business decisions.
+With a background in **Data Analytics**, I specialise in **retail & commercial analytics**, turning transactional data into **actionable insights** — not just charts, but real business decisions.
 
 ## 🔹 What I do
 - 📈 Analyse **sales trends, product mix, and customer behaviour**  
